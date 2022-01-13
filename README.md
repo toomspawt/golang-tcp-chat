@@ -1,0 +1,5 @@
+- `nick()` - sets the client's nick and sends confirmation message to the client
+- `join()` - joins the room and creates it if it doesn't exist. Quit current room before joining.
+- `listRooms()` - prints current rooms
+- `msg()` - broadcasts message to the current room
+- `quit()` - closes the connection
